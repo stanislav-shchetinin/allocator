@@ -185,5 +185,5 @@ inline block_capacity capacity_from_size( block_size sz ) {
 
 - [Статья Doug Lea о том, как работает аллокатор в `glibc`](http://gee.cs.oswego.edu/dl/html/malloc.html). Текущая версия аллокатора работает по более сложному алгоритму. 
 - [Исходный код одной из последних версий аллокатора в `glibc`. Очень много хорошо написанных комментариев](docs/malloc-impl.c)
-#   a l l o c a t o r  
+ 
  
